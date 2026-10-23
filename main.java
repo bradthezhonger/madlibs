@@ -3,6 +3,10 @@ public class main {
     String usedAdjective = adjective.getAdjective();
     String usedNoun = noun.getNoun();
     int usedNumber = (new numbers()).check();
+
+    String usedVerb = verb.getVerb();
+    int usedNumber = (new numbers()).check();
+    
     
   }
 }
