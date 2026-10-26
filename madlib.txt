@@ -1,7 +1,7 @@
-$ noun
-^ verb
-@ adjective
-# number
+$ = noun
+^ = verb
+@ = adjective
+# = number
 
 A @ $ swooped in to ^ my bed # times.
 
