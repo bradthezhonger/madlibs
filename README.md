@@ -1,7 +1,7 @@
 # madlibs
-Mad Libs
+**Mad Libs**
 
-Group Members
+**Group Members**
 
 Advay Bansal - Worked on picker.java and helped with madlib.java.
 
@@ -15,7 +15,7 @@ Gursimran Sachdeva - Worked on adjective.java and helped with verb.java.
 
 Sankarshana Sudeendra - Worked on madlib.txt and madlib.java, added code comments, and helped with code organization.
 
-Project Milestones
+**Project Milestones**
 
 Created the Java files for the different parts of the program.
 
@@ -29,4 +29,4 @@ Completed the Mad Libs stories and checked the output.
 
 Documented the project and prepared it for submission.
 
-Screenshots
+**Screenshots**
