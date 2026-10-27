@@ -30,3 +30,5 @@ Completed the Mad Libs stories and checked the output.
 Documented the project and prepared it for submission.
 
 **Screenshots**
+<img width="585" height="257" alt="Screenshot 2026-10-26 at 10 32 47 PM" src="https://github.com/user-attachments/assets/5149fc39-566c-4e27-97e4-faf334f2a2e2" />
+<img width="890" height="257" alt="Screenshot 2026-10-26 at 10 34 08 PM" src="https://github.com/user-attachments/assets/26197863-4a1d-47d1-b091-b01f44cbb5fa" />
